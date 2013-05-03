@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Object files
 *.o
 
@@ -15,3 +16,7 @@
 *.exe
 *.out
 *.app
+=======
+*.o
+*~
+>>>>>>> course/master
